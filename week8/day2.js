@@ -1,5 +1,5 @@
 // //en cox ardicil tekrarlanan reqemi ve sayini tapin
-// let arr=[1,2,1,1,1,1,1,3,2,2,2,2,2,2,2,2,2,8,9,8,8];
+// let arr=[1,2,1,1,1,1,1,3,2,2,2,2,2,2,2,2,2,8,9,8,8]; 
 // let coount=1;
 // let max=0;
 // let num;
