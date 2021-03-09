@@ -1,0 +1,47 @@
+*, *:after, *:before { box-sizing: border-box; }
+
+.container{
+    width: 100%;
+}
+.menu-logo img{
+    height: 60px;
+    width: 100px;
+    background: #0f1110;
+}
+
+li{
+    list-style-type: none;
+}
+ul li a{
+    padding-right: 20px;
+
+}
+.menu{
+   display:flex;
+   justify-content: space-around;
+    background-color: #0f1110;
+    height: 60px;
+    border-bottom: 4px solid #c2da44;
+}
+.menu-items{
+    border-radius: 5px;
+    background-color: red;
+}
+.logo-write{
+    font-size: 10px;
+    padding-left: 10px;
+}
+.menu-name{
+    border-radius: 5px;
+    background-color: red;
+}
+
+.slide-left img{
+    width: 280px;
+    height: 140px;
+    margin: 20px 0px;
+}
+
+.slide-right{
+    padding: 30px;
+}

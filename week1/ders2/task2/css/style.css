@@ -1,0 +1,27 @@
+.header-left,.header-right{
+    height: 120px;
+}
+
+.main{
+    height: 300px;
+}
+p{
+    padding: 0px;
+    margin: 0px;
+}
+.main-center-top,.main-right-top{
+    height: 140px;
+}
+.main-center-bottom,.main-right-bottom{
+    height: 160px;
+}
+.main-bottom{
+    height: 140px;
+}
+.main-bottom p{
+    padding: 20px;
+    color: red;
+}
+.footer{
+    height: 60px;
+}
